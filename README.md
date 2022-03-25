@@ -4,7 +4,8 @@ Simulink Excel Blocks is a custom Simulink library which will be useful to the r
 
 
 Usage:
-If this SimExcelBlocks folder is in MATLAB path, then this library blocks will be available to use from Simulink Library Browser.
+If this SimExcelBlocks folder is in MATLAB path, then this library blocks will be available to use from Simulink Library Browser. 
+If this library is not visible in Simulink Library Browser, then close the Simulink and type following command in MATLAB command window.
 
 There are three blocks available in this library.
 1. FromExcel Block - Helps to read the data from the Excel file and use it as a source block data for Simulink
